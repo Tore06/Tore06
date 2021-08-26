@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Tore06
+- 👀 I’m interested in informatic
+- 🌱 I’m currently learning HTML and CSS
